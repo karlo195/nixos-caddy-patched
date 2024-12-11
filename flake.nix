@@ -44,7 +44,7 @@
             inherit version;
             src = ./caddy-src;
             runVend = true;
-            vendorHash = "sha256-q3pe0wpBj1OcHFZ3n/1nl4V4bxBrYoSoab7rL9BMYNk=";       
+            vendorHash = "sha256-c9A0LabGN8gIq2pL/WP8wst3y0+8f72K015QZrX9yq4=";       
             # vendorHash = pkgs.lib.fakeHash;
 
             meta = {
