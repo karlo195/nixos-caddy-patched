@@ -3,9 +3,9 @@ module caddy
 go 1.23.2
 
 require (
+	github.com/caddy-dns/dynu v0.1.1
 	github.com/caddyserver/caddy/v2 v2.8.4
 	github.com/greenpau/caddy-security v1.1.29
-        github.com/caddy-dns/dynu v0.1.1
 )
 
 require (
@@ -24,7 +24,7 @@ require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/caddyserver/certmagic v0.21.3 // indirect
 	github.com/caddyserver/zerossl v0.1.3 // indirect
-	github.com/cenkalti/backoff/v4 v4.2.1 // indirect
+	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
 	github.com/cespare/xxhash v1.1.0 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/chzyer/readline v1.5.1 // indirect
@@ -79,6 +79,7 @@ require (
 	github.com/jonboulle/clockwork v0.4.0 // indirect
 	github.com/klauspost/compress v1.17.8 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.7 // indirect
+	github.com/libdns/dynu v0.1.1 // indirect
 	github.com/libdns/libdns v0.2.2 // indirect
 	github.com/manifoldco/promptui v0.9.0 // indirect
 	github.com/mattermost/xml-roundtrip-validator v0.1.0 // indirect
